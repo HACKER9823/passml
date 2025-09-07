@@ -1,0 +1,8 @@
+welcome
+admin
+letmein
+secret
+love
+monkey
+dragon
+password
